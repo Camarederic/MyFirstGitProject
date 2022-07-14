@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyFirstGitProject</string>
+    <string name="my_third_github_project">My Third GitHub Project!</string>
 </resources>
